@@ -41,9 +41,9 @@ World Locking Tools is both powerful and easy to use. Furthermore, it strives to
 
 These ideas are further explored in the conceptual guide. To complement the theoretical description, pragmatic samples are provided, along with how-to articles to walk through the steps involved in building applications using the World Locking Tools' stable and reliable coordinate system.
 
-* [Conceptual guide](~/DocGen/Documentation/GettingStartedWithWorldLocking.md)
-* [How-to articles](~/DocGen/Documentation/HowTos.md)
-* [Samples](~/DocGen/Documentation/HowTos/SampleApplications.md)
+* [Conceptual guide](DocGen/Documentation/GettingStartedWithWorldLocking.md)
+* [How-to articles](DocGen/Documentation/HowTos.md)
+* [Samples](DocGen/Documentation/HowTos/SampleApplications.md)
 
 Further, reference materials for interfacing through script with World Locking Tools is included in the [API Documentation](~/DocGen/Documentation/Concepts/Advanced/Architecture/Architecture.md).
 
